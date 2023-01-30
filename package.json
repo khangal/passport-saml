@@ -1,6 +1,6 @@
 {
   "name": "passport-saml-fork",
-  "version": "4.0.5",
+  "version": "4.0.6",
   "description": "SAML 2.0 authentication strategy for Passport",
   "keywords": [
     "saml",
